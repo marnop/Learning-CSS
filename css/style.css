@@ -1,29 +1,7 @@
 body {
     font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background-color: darkgray;
+    color: darkred;
 }
-
-header {
-    color: gold;
-}
-
-.ha1 {
-    color: red;
-}
-
-.ha2 {
-    color: yellowgreen;
-}
-
-.ha3 {
-    color: blue;
-}
-
-.pa1, .pa2, .pa3 {
-    font-style: italic;
-}
-
-p span {
-    text-transform: uppercase;
-    background-color: gold;
-}
-
