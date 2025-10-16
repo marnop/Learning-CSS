@@ -1,4 +1,29 @@
-p {
-    font-size: 64px;
-    color: purple;
+body {
+    font-size: 22px;
 }
+
+header {
+    color: gold;
+}
+
+.ha1 {
+    color: red;
+}
+
+.ha2 {
+    color: yellowgreen;
+}
+
+.ha3 {
+    color: blue;
+}
+
+.pa1, .pa2, .pa3 {
+    font-style: italic;
+}
+
+p span {
+    text-transform: uppercase;
+    background-color: gold;
+}
+
