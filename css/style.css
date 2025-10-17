@@ -1,13 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 body {
     padding: 10%;
     font-size: 2rem;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
-/* input, button {
-    font: inherit;
-} */
+a {
+    color: black;
+}
 
-p {
-    line-height: 1.5;
+a:visited {
+    color: purple;
+}
+
+a:hover, a:focus {
+    /* color: aqua; */
+    opacity: 0.5;
+    background-color: gold;
+}
+
+a:active {
+    color: red;
 }
